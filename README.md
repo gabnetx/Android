@@ -17,5 +17,6 @@
 - 6.0 MarshMallow
 - 7.0 Nougat
 - 8.0 Oreo
+- 9.0 Pie
 
 https://www.android.com/intl/es_es/history/
